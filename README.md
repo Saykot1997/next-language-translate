@@ -2,4 +2,4 @@
 
 ##Language
 - English
-- Franch
+- Bangla
